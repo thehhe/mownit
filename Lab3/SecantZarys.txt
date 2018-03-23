@@ -1,0 +1,774 @@
+PIERWSZE KRYTERIUM STOPU
+RO = 0.01
+
+Po 2 iteracjach znaleziono
+Dla a = -0.6 b = 2.4 root = -0.5999999993425956
+Po 2 iteracjach znaleziono
+Dla a = -0.6 b = 2.3 root = -0.5999999987602758
+Po 2 iteracjach znaleziono
+Dla a = -0.6 b = 2.1999999999999997 root = -0.5999999975954904
+Po 2 iteracjach znaleziono
+Dla a = -0.6 b = 2.0999999999999996 root = -0.5999999951908161
+Po 2 iteracjach znaleziono
+Dla a = -0.6 b = 1.9999999999999996 root = -0.5999999900514252
+Po 2 iteracjach znaleziono
+Dla a = -0.6 b = 1.8999999999999995 root = -0.5999999786402247
+Po 2 iteracjach znaleziono
+Dla a = -0.6 b = 1.7999999999999994 root = -0.5999999522114062
+Po 2 iteracjach znaleziono
+Dla a = -0.6 b = 1.6999999999999993 root = -0.5999998880591231
+Po 2 iteracjach znaleziono
+Dla a = -0.6 b = 1.5999999999999992 root = -0.5999997239373707
+Po 2 iteracjach znaleziono
+Dla a = -0.6 b = 1.4999999999999991 root = -0.599999278448609
+Po 2 iteracjach znaleziono
+Dla a = -0.6 b = 1.399999999999999 root = -0.5999979851082846
+Po 2 iteracjach znaleziono
+Dla a = -0.6 b = 1.299999999999999 root = -0.5999939295854154
+Po 2 iteracjach znaleziono
+Dla a = -0.6 b = 1.1999999999999988 root = -0.5999800272683382
+Po 2 iteracjach znaleziono
+Dla a = -0.6 b = 1.0999999999999988 root = -0.5999271371610216
+Po 2 iteracjach znaleziono
+Dla a = -0.6 b = 0.9999999999999988 root = -0.5996996324341772
+Po 2 iteracjach znaleziono
+Dla a = -0.6 b = 0.8999999999999988 root = -0.5985703226850997
+Po 2 iteracjach znaleziono
+Dla a = -0.6 b = 0.7999999999999988 root = -0.5920904465151987
+Po 23 iteracjach znaleziono
+Dla a = -0.6 b = 0.6999999999999988 root = -0.19340755646822463
+Po 2 iteracjach znaleziono
+Dla a = -0.6 b = 0.5999999999999989 root = -0.35981948291648647
+Po 2 iteracjach znaleziono
+Dla a = -0.6 b = 0.4999999999999989 root = 0.2846347562708938
+Po 1 iteracjach znaleziono
+Dla a = -0.6 b = 0.3999999999999989 root = 0.3920705744318746
+Po 1 iteracjach znaleziono
+Dla a = -0.6 b = 0.29999999999999893 root = 0.2999107449364905
+Po 1 iteracjach znaleziono
+Dla a = -0.6 b = 0.19999999999999893 root = 0.1999998327399074
+Po 1 iteracjach znaleziono
+Dla a = -0.6 b = 0.09999999999999892 root = 0.0999999999959048
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = -0.6 b = -1.0824674490095276E-15 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = -0.6 b = -0.10000000000000109 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = -0.6 b = -0.2000000000000011 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = -0.6 b = -0.3000000000000011 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = -0.6 b = -0.40000000000000113 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = -0.6 b = -0.5000000000000011 root = -100.0
+
+
+
+Po 2 iteracjach znaleziono
+Dla a = -0.6 b = 2.4 root = -0.5999999993425956
+Po 2 iteracjach znaleziono
+Dla a = -0.5 b = 2.4 root = -0.49999999994844135
+Po 2 iteracjach znaleziono
+Dla a = -0.4 b = 2.4 root = -0.3999999999978983
+Po 2 iteracjach znaleziono
+Dla a = -0.30000000000000004 b = 2.4 root = -0.2999999999999689
+Po 2 iteracjach znaleziono
+Dla a = -0.20000000000000004 b = 2.4 root = -0.2000000000000006
+Po 2 iteracjach znaleziono
+Dla a = -0.10000000000000003 b = 2.4 root = -0.10000000000000009
+Po 1 iteracjach znaleziono
+Dla a = -2.7755575615628914E-17 b = 2.4 root = 0.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.09999999999999998 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.19999999999999998 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.3 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.4 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.5 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.6 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.7 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.7999999999999999 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.8999999999999999 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.9999999999999999 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.0999999999999999 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.2 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.3 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.4000000000000001 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.5000000000000002 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.6000000000000003 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.7000000000000004 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.8000000000000005 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.9000000000000006 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 2.0000000000000004 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 2.1000000000000005 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 2.2000000000000006 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 2.3000000000000007 b = 2.4 root = -100.0
+
+---------------------------------------------------------------
+
+PIERWSZE KRYTERIUM STOPU
+RO = 1.0E-10
+Po 408 iteracjach znaleziono
+Dla a = -0.6 b = 2.4 root = -2.041086938147057E-9
+Po 408 iteracjach znaleziono
+Dla a = -0.6 b = 2.3 root = -2.041086940318659E-9
+Po 408 iteracjach znaleziono
+Dla a = -0.6 b = 2.1999999999999997 root = -2.041086939865411E-9
+Po 408 iteracjach znaleziono
+Dla a = -0.6 b = 2.0999999999999996 root = -2.0410869328309684E-9
+Po 408 iteracjach znaleziono
+Dla a = -0.6 b = 1.9999999999999996 root = -2.0410869205471506E-9
+Po 408 iteracjach znaleziono
+Dla a = -0.6 b = 1.8999999999999995 root = -2.0410868927874655E-9
+Po 408 iteracjach znaleziono
+Dla a = -0.6 b = 1.7999999999999994 root = -2.0410868283023683E-9
+Po 408 iteracjach znaleziono
+Dla a = -0.6 b = 1.6999999999999993 root = -2.041086671755315E-9
+Po 408 iteracjach znaleziono
+Dla a = -0.6 b = 1.5999999999999992 root = -2.0410862711763606E-9
+Po 408 iteracjach znaleziono
+Dla a = -0.6 b = 1.4999999999999991 root = -2.0410851839020513E-9
+Po 408 iteracjach znaleziono
+Dla a = -0.6 b = 1.399999999999999 root = -2.0410820273311223E-9
+Po 408 iteracjach znaleziono
+Dla a = -0.6 b = 1.299999999999999 root = -2.0410721291671342E-9
+Po 408 iteracjach znaleziono
+Dla a = -0.6 b = 1.1999999999999988 root = -2.0410381969160805E-9
+Po 408 iteracjach znaleziono
+Dla a = -0.6 b = 1.0999999999999988 root = -2.0409090851911123E-9
+Po 408 iteracjach znaleziono
+Dla a = -0.6 b = 0.9999999999999988 root = -2.0403533627833705E-9
+Po 408 iteracjach znaleziono
+Dla a = -0.6 b = 0.8999999999999988 root = -2.037586304366683E-9
+Po 408 iteracjach znaleziono
+Dla a = -0.6 b = 0.7999999999999988 root = -2.021432517695941E-9
+Po 407 iteracjach znaleziono
+Dla a = -0.6 b = 0.6999999999999988 root = -2.0155086840096787E-9
+Po 399 iteracjach znaleziono
+Dla a = -0.6 b = 0.5999999999999989 root = -1.949763041639737E-9
+Po 395 iteracjach znaleziono
+Dla a = -0.6 b = 0.4999999999999989 root = 1.9629818247457527E-9
+Po 401 iteracjach znaleziono
+Dla a = -0.6 b = 0.3999999999999989 root = 1.9598587178136624E-9
+Po 395 iteracjach znaleziono
+Dla a = -0.6 b = 0.29999999999999893 root = 1.973519779070754E-9
+Po 386 iteracjach znaleziono
+Dla a = -0.6 b = 0.19999999999999893 root = 2.012285258320275E-9
+Po 1 iteracjach znaleziono
+Dla a = -0.6 b = 0.09999999999999892 root = 0.0999999999959048
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = -0.6 b = -1.0824674490095276E-15 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = -0.6 b = -0.10000000000000109 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = -0.6 b = -0.2000000000000011 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = -0.6 b = -0.3000000000000011 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = -0.6 b = -0.40000000000000113 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = -0.6 b = -0.5000000000000011 root = -100.0
+
+
+
+Po 408 iteracjach znaleziono
+Dla a = -0.6 b = 2.4 root = -2.041086938147057E-9
+Po 2 iteracjach znaleziono
+Dla a = -0.5 b = 2.4 root = -0.49999999994844135
+Po 2 iteracjach znaleziono
+Dla a = -0.4 b = 2.4 root = -0.3999999999978983
+Po 2 iteracjach znaleziono
+Dla a = -0.30000000000000004 b = 2.4 root = -0.2999999999999689
+Po 2 iteracjach znaleziono
+Dla a = -0.20000000000000004 b = 2.4 root = -0.2000000000000006
+Po 2 iteracjach znaleziono
+Dla a = -0.10000000000000003 b = 2.4 root = -0.10000000000000009
+Po 1 iteracjach znaleziono
+Dla a = -2.7755575615628914E-17 b = 2.4 root = 0.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.09999999999999998 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.19999999999999998 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.3 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.4 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.5 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.6 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.7 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.7999999999999999 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.8999999999999999 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.9999999999999999 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.0999999999999999 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.2 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.3 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.4000000000000001 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.5000000000000002 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.6000000000000003 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.7000000000000004 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.8000000000000005 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.9000000000000006 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 2.0000000000000004 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 2.1000000000000005 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 2.2000000000000006 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 2.3000000000000007 b = 2.4 root = -100.0
+
+-----------------------------------------------------------------
+
+PIERWSZE KRYTERIUM STOPU
+RO = 1.0E-20
+Po 890 iteracjach znaleziono
+Dla a = -0.6 b = 2.4 root = -1.9910515916853522E-19
+Po 890 iteracjach znaleziono
+Dla a = -0.6 b = 2.3 root = -1.991051593803717E-19
+Po 890 iteracjach znaleziono
+Dla a = -0.6 b = 2.1999999999999997 root = -1.991051593361579E-19
+Po 890 iteracjach znaleziono
+Dla a = -0.6 b = 2.0999999999999996 root = -1.9910515864995812E-19
+Po 890 iteracjach znaleziono
+Dla a = -0.6 b = 1.9999999999999996 root = -1.9910515745168914E-19
+Po 890 iteracjach znaleziono
+Dla a = -0.6 b = 1.8999999999999995 root = -1.9910515474377059E-19
+Po 890 iteracjach znaleziono
+Dla a = -0.6 b = 1.7999999999999994 root = -1.9910514845334038E-19
+Po 890 iteracjach znaleziono
+Dla a = -0.6 b = 1.6999999999999993 root = -1.991051331823958E-19
+Po 890 iteracjach znaleziono
+Dla a = -0.6 b = 1.5999999999999992 root = -1.991050941064823E-19
+Po 890 iteracjach znaleziono
+Dla a = -0.6 b = 1.4999999999999991 root = -1.9910498804440293E-19
+Po 890 iteracjach znaleziono
+Dla a = -0.6 b = 1.399999999999999 root = -1.9910468012534982E-19
+Po 890 iteracjach znaleziono
+Dla a = -0.6 b = 1.299999999999999 root = -1.9910371457337861E-19
+Po 890 iteracjach znaleziono
+Dla a = -0.6 b = 1.1999999999999988 root = -1.9910040453002894E-19
+Po 890 iteracjach znaleziono
+Dla a = -0.6 b = 1.0999999999999988 root = -1.9908780986291014E-19
+Po 890 iteracjach znaleziono
+Dla a = -0.6 b = 0.9999999999999988 root = -1.9903359992390054E-19
+Po 890 iteracjach znaleziono
+Dla a = -0.6 b = 0.8999999999999988 root = -1.9876367726842402E-19
+Po 890 iteracjach znaleziono
+Dla a = -0.6 b = 0.7999999999999988 root = -1.97187898106019E-19
+Po 889 iteracjach znaleziono
+Dla a = -0.6 b = 0.6999999999999988 root = -1.9661003646437127E-19
+Po 880 iteracjach znaleziono
+Dla a = -0.6 b = 0.5999999999999989 root = -1.9951341162836006E-19
+Po 876 iteracjach znaleziono
+Dla a = -0.6 b = 0.4999999999999989 root = 2.0086605016349947E-19
+Po 882 iteracjach znaleziono
+Dla a = -0.6 b = 0.3999999999999989 root = 2.0054647198612348E-19
+Po 876 iteracjach znaleziono
+Dla a = -0.6 b = 0.29999999999999893 root = 2.0194436746408834E-19
+Po 868 iteracjach znaleziono
+Dla a = -0.6 b = 0.19999999999999893 root = 1.9629559587994813E-19
+Po 853 iteracjach znaleziono
+Dla a = -0.6 b = 0.09999999999999892 root = 1.9986331004184318E-19
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = -0.6 b = -1.0824674490095276E-15 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = -0.6 b = -0.10000000000000109 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = -0.6 b = -0.2000000000000011 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = -0.6 b = -0.3000000000000011 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = -0.6 b = -0.40000000000000113 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = -0.6 b = -0.5000000000000011 root = -100.0
+
+
+
+Po 890 iteracjach znaleziono
+Dla a = -0.6 b = 2.4 root = -1.9910515916853522E-19
+Po 887 iteracjach znaleziono
+Dla a = -0.5 b = 2.4 root = -1.9475601946599369E-19
+Po 882 iteracjach znaleziono
+Dla a = -0.4 b = 2.4 root = -2.005720844133125E-19
+Po 876 iteracjach znaleziono
+Dla a = -0.30000000000000004 b = 2.4 root = -2.026880591051662E-19
+Po 868 iteracjach znaleziono
+Dla a = -0.20000000000000004 b = 2.4 root = -2.0086330174350066E-19
+Po 2 iteracjach znaleziono
+Dla a = -0.10000000000000003 b = 2.4 root = -0.10000000000000009
+Po 1 iteracjach znaleziono
+Dla a = -2.7755575615628914E-17 b = 2.4 root = 0.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.09999999999999998 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.19999999999999998 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.3 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.4 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.5 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.6 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.7 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.7999999999999999 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.8999999999999999 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.9999999999999999 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.0999999999999999 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.2 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.3 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.4000000000000001 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.5000000000000002 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.6000000000000003 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.7000000000000004 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.8000000000000005 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.9000000000000006 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 2.0000000000000004 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 2.1000000000000005 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 2.2000000000000006 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 2.3000000000000007 b = 2.4 root = -100.0
+
+
+
+
+-------------------------------------------------------------------
+===================================================================
+-------------------------------------------------------------------
+
+
+
+
+DRUGIE KRYTERIUM STOPU
+RO = 0.01
+Po 2 iteracjach znaleziono
+Dla a = -0.6 b = 2.4 root = -0.5999999993425956
+Po 2 iteracjach znaleziono
+Dla a = -0.6 b = 2.3 root = -0.5999999987602758
+Po 2 iteracjach znaleziono
+Dla a = -0.6 b = 2.1999999999999997 root = -0.5999999975954904
+Po 2 iteracjach znaleziono
+Dla a = -0.6 b = 2.0999999999999996 root = -0.5999999951908161
+Po 2 iteracjach znaleziono
+Dla a = -0.6 b = 1.9999999999999996 root = -0.5999999900514252
+Po 2 iteracjach znaleziono
+Dla a = -0.6 b = 1.8999999999999995 root = -0.5999999786402247
+Po 2 iteracjach znaleziono
+Dla a = -0.6 b = 1.7999999999999994 root = -0.5999999522114062
+Po 2 iteracjach znaleziono
+Dla a = -0.6 b = 1.6999999999999993 root = -0.5999998880591231
+Po 2 iteracjach znaleziono
+Dla a = -0.6 b = 1.5999999999999992 root = -0.5999997239373707
+Po 2 iteracjach znaleziono
+Dla a = -0.6 b = 1.4999999999999991 root = -0.599999278448609
+Po 2 iteracjach znaleziono
+Dla a = -0.6 b = 1.399999999999999 root = -0.5999979851082846
+Po 2 iteracjach znaleziono
+Dla a = -0.6 b = 1.299999999999999 root = -0.5999939295854154
+Po 2 iteracjach znaleziono
+Dla a = -0.6 b = 1.1999999999999988 root = -0.5999800272683382
+Po 2 iteracjach znaleziono
+Dla a = -0.6 b = 1.0999999999999988 root = -0.5999271371610216
+Po 2 iteracjach znaleziono
+Dla a = -0.6 b = 0.9999999999999988 root = -0.5996996324341772
+Po 2 iteracjach znaleziono
+Dla a = -0.6 b = 0.8999999999999988 root = -0.5985703226850997
+Po 2 iteracjach znaleziono
+Dla a = -0.6 b = 0.7999999999999988 root = -0.5920904465151987
+Po 23 iteracjach znaleziono
+Dla a = -0.6 b = 0.6999999999999988 root = -0.19340755646822463
+Po 2 iteracjach znaleziono
+Dla a = -0.6 b = 0.5999999999999989 root = -0.35981948291648647
+Po 2 iteracjach znaleziono
+Dla a = -0.6 b = 0.4999999999999989 root = 0.2846347562708938
+Po 1 iteracjach znaleziono
+Dla a = -0.6 b = 0.3999999999999989 root = 0.3920705744318746
+Po 1 iteracjach znaleziono
+Dla a = -0.6 b = 0.29999999999999893 root = 0.2999107449364905
+Po 1 iteracjach znaleziono
+Dla a = -0.6 b = 0.19999999999999893 root = 0.1999998327399074
+Po 1 iteracjach znaleziono
+Dla a = -0.6 b = 0.09999999999999892 root = 0.0999999999959048
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = -0.6 b = -1.0824674490095276E-15 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = -0.6 b = -0.10000000000000109 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = -0.6 b = -0.2000000000000011 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = -0.6 b = -0.3000000000000011 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = -0.6 b = -0.40000000000000113 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = -0.6 b = -0.5000000000000011 root = -100.0
+
+
+
+Po 2 iteracjach znaleziono
+Dla a = -0.6 b = 2.4 root = -0.5999999993425956
+Po 2 iteracjach znaleziono
+Dla a = -0.5 b = 2.4 root = -0.49999999994844135
+Po 2 iteracjach znaleziono
+Dla a = -0.4 b = 2.4 root = -0.3999999999978983
+Po 2 iteracjach znaleziono
+Dla a = -0.30000000000000004 b = 2.4 root = -0.2999999999999689
+Po 2 iteracjach znaleziono
+Dla a = -0.20000000000000004 b = 2.4 root = -0.2000000000000006
+Po 2 iteracjach znaleziono
+Dla a = -0.10000000000000003 b = 2.4 root = -0.10000000000000009
+Po 1 iteracjach znaleziono
+Dla a = -2.7755575615628914E-17 b = 2.4 root = 0.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.09999999999999998 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.19999999999999998 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.3 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.4 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.5 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.6 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.7 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.7999999999999999 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.8999999999999999 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.9999999999999999 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.0999999999999999 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.2 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.3 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.4000000000000001 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.5000000000000002 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.6000000000000003 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.7000000000000004 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.8000000000000005 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.9000000000000006 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 2.0000000000000004 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 2.1000000000000005 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 2.2000000000000006 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 2.3000000000000007 b = 2.4 root = -100.0
+
+------------------------------------------------------------------
+
+DRUGIE KRYTERIUM STOPU
+RO = 1.0E-10
+Po 408 iteracjach znaleziono
+Dla a = -0.6 b = 2.4 root = -2.041086938147057E-9
+Po 408 iteracjach znaleziono
+Dla a = -0.6 b = 2.3 root = -2.041086940318659E-9
+Po 408 iteracjach znaleziono
+Dla a = -0.6 b = 2.1999999999999997 root = -2.041086939865411E-9
+Po 408 iteracjach znaleziono
+Dla a = -0.6 b = 2.0999999999999996 root = -2.0410869328309684E-9
+Po 408 iteracjach znaleziono
+Dla a = -0.6 b = 1.9999999999999996 root = -2.0410869205471506E-9
+Po 408 iteracjach znaleziono
+Dla a = -0.6 b = 1.8999999999999995 root = -2.0410868927874655E-9
+Po 408 iteracjach znaleziono
+Dla a = -0.6 b = 1.7999999999999994 root = -2.0410868283023683E-9
+Po 408 iteracjach znaleziono
+Dla a = -0.6 b = 1.6999999999999993 root = -2.041086671755315E-9
+Po 408 iteracjach znaleziono
+Dla a = -0.6 b = 1.5999999999999992 root = -2.0410862711763606E-9
+Po 408 iteracjach znaleziono
+Dla a = -0.6 b = 1.4999999999999991 root = -2.0410851839020513E-9
+Po 408 iteracjach znaleziono
+Dla a = -0.6 b = 1.399999999999999 root = -2.0410820273311223E-9
+Po 408 iteracjach znaleziono
+Dla a = -0.6 b = 1.299999999999999 root = -2.0410721291671342E-9
+Po 408 iteracjach znaleziono
+Dla a = -0.6 b = 1.1999999999999988 root = -2.0410381969160805E-9
+Po 408 iteracjach znaleziono
+Dla a = -0.6 b = 1.0999999999999988 root = -2.0409090851911123E-9
+Po 408 iteracjach znaleziono
+Dla a = -0.6 b = 0.9999999999999988 root = -2.0403533627833705E-9
+Po 408 iteracjach znaleziono
+Dla a = -0.6 b = 0.8999999999999988 root = -2.037586304366683E-9
+Po 408 iteracjach znaleziono
+Dla a = -0.6 b = 0.7999999999999988 root = -2.021432517695941E-9
+Po 407 iteracjach znaleziono
+Dla a = -0.6 b = 0.6999999999999988 root = -2.0155086840096787E-9
+Po 399 iteracjach znaleziono
+Dla a = -0.6 b = 0.5999999999999989 root = -1.949763041639737E-9
+Po 395 iteracjach znaleziono
+Dla a = -0.6 b = 0.4999999999999989 root = 1.9629818247457527E-9
+Po 401 iteracjach znaleziono
+Dla a = -0.6 b = 0.3999999999999989 root = 1.9598587178136624E-9
+Po 395 iteracjach znaleziono
+Dla a = -0.6 b = 0.29999999999999893 root = 1.973519779070754E-9
+Po 386 iteracjach znaleziono
+Dla a = -0.6 b = 0.19999999999999893 root = 2.012285258320275E-9
+Po 1 iteracjach znaleziono
+Dla a = -0.6 b = 0.09999999999999892 root = 0.0999999999959048
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = -0.6 b = -1.0824674490095276E-15 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = -0.6 b = -0.10000000000000109 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = -0.6 b = -0.2000000000000011 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = -0.6 b = -0.3000000000000011 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = -0.6 b = -0.40000000000000113 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = -0.6 b = -0.5000000000000011 root = -100.0
+
+
+
+Po 408 iteracjach znaleziono
+Dla a = -0.6 b = 2.4 root = -2.041086938147057E-9
+Po 2 iteracjach znaleziono
+Dla a = -0.5 b = 2.4 root = -0.49999999994844135
+Po 2 iteracjach znaleziono
+Dla a = -0.4 b = 2.4 root = -0.3999999999978983
+Po 2 iteracjach znaleziono
+Dla a = -0.30000000000000004 b = 2.4 root = -0.2999999999999689
+Po 2 iteracjach znaleziono
+Dla a = -0.20000000000000004 b = 2.4 root = -0.2000000000000006
+Po 2 iteracjach znaleziono
+Dla a = -0.10000000000000003 b = 2.4 root = -0.10000000000000009
+Po 1 iteracjach znaleziono
+Dla a = -2.7755575615628914E-17 b = 2.4 root = 0.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.09999999999999998 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.19999999999999998 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.3 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.4 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.5 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.6 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.7 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.7999999999999999 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.8999999999999999 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.9999999999999999 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.0999999999999999 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.2 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.3 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.4000000000000001 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.5000000000000002 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.6000000000000003 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.7000000000000004 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.8000000000000005 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.9000000000000006 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 2.0000000000000004 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 2.1000000000000005 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 2.2000000000000006 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 2.3000000000000007 b = 2.4 root = -100.0
+
+------------------------------------------------------------------
+
+DRUGIE KRYTERIUM STOPU
+RO = 1.0E-20
+Po 890 iteracjach znaleziono
+Dla a = -0.6 b = 2.4 root = -1.9910515916853522E-19
+Po 890 iteracjach znaleziono
+Dla a = -0.6 b = 2.3 root = -1.991051593803717E-19
+Po 890 iteracjach znaleziono
+Dla a = -0.6 b = 2.1999999999999997 root = -1.991051593361579E-19
+Po 890 iteracjach znaleziono
+Dla a = -0.6 b = 2.0999999999999996 root = -1.9910515864995812E-19
+Po 890 iteracjach znaleziono
+Dla a = -0.6 b = 1.9999999999999996 root = -1.9910515745168914E-19
+Po 890 iteracjach znaleziono
+Dla a = -0.6 b = 1.8999999999999995 root = -1.9910515474377059E-19
+Po 890 iteracjach znaleziono
+Dla a = -0.6 b = 1.7999999999999994 root = -1.9910514845334038E-19
+Po 890 iteracjach znaleziono
+Dla a = -0.6 b = 1.6999999999999993 root = -1.991051331823958E-19
+Po 890 iteracjach znaleziono
+Dla a = -0.6 b = 1.5999999999999992 root = -1.991050941064823E-19
+Po 890 iteracjach znaleziono
+Dla a = -0.6 b = 1.4999999999999991 root = -1.9910498804440293E-19
+Po 890 iteracjach znaleziono
+Dla a = -0.6 b = 1.399999999999999 root = -1.9910468012534982E-19
+Po 890 iteracjach znaleziono
+Dla a = -0.6 b = 1.299999999999999 root = -1.9910371457337861E-19
+Po 890 iteracjach znaleziono
+Dla a = -0.6 b = 1.1999999999999988 root = -1.9910040453002894E-19
+Po 890 iteracjach znaleziono
+Dla a = -0.6 b = 1.0999999999999988 root = -1.9908780986291014E-19
+Po 890 iteracjach znaleziono
+Dla a = -0.6 b = 0.9999999999999988 root = -1.9903359992390054E-19
+Po 890 iteracjach znaleziono
+Dla a = -0.6 b = 0.8999999999999988 root = -1.9876367726842402E-19
+Po 890 iteracjach znaleziono
+Dla a = -0.6 b = 0.7999999999999988 root = -1.97187898106019E-19
+Po 889 iteracjach znaleziono
+Dla a = -0.6 b = 0.6999999999999988 root = -1.9661003646437127E-19
+Po 880 iteracjach znaleziono
+Dla a = -0.6 b = 0.5999999999999989 root = -1.9951341162836006E-19
+Po 876 iteracjach znaleziono
+Dla a = -0.6 b = 0.4999999999999989 root = 2.0086605016349947E-19
+Po 882 iteracjach znaleziono
+Dla a = -0.6 b = 0.3999999999999989 root = 2.0054647198612348E-19
+Po 876 iteracjach znaleziono
+Dla a = -0.6 b = 0.29999999999999893 root = 2.0194436746408834E-19
+Po 868 iteracjach znaleziono
+Dla a = -0.6 b = 0.19999999999999893 root = 1.9629559587994813E-19
+Po 853 iteracjach znaleziono
+Dla a = -0.6 b = 0.09999999999999892 root = 1.9986331004184318E-19
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = -0.6 b = -1.0824674490095276E-15 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = -0.6 b = -0.10000000000000109 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = -0.6 b = -0.2000000000000011 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = -0.6 b = -0.3000000000000011 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = -0.6 b = -0.40000000000000113 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = -0.6 b = -0.5000000000000011 root = -100.0
+
+
+
+Po 890 iteracjach znaleziono
+Dla a = -0.6 b = 2.4 root = -1.9910515916853522E-19
+Po 887 iteracjach znaleziono
+Dla a = -0.5 b = 2.4 root = -1.9475601946599369E-19
+Po 882 iteracjach znaleziono
+Dla a = -0.4 b = 2.4 root = -2.005720844133125E-19
+Po 876 iteracjach znaleziono
+Dla a = -0.30000000000000004 b = 2.4 root = -2.026880591051662E-19
+Po 868 iteracjach znaleziono
+Dla a = -0.20000000000000004 b = 2.4 root = -2.0086330174350066E-19
+Po 2 iteracjach znaleziono
+Dla a = -0.10000000000000003 b = 2.4 root = -0.10000000000000009
+Po 1 iteracjach znaleziono
+Dla a = -2.7755575615628914E-17 b = 2.4 root = 0.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.09999999999999998 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.19999999999999998 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.3 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.4 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.5 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.6 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.7 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.7999999999999999 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.8999999999999999 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 0.9999999999999999 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.0999999999999999 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.2 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.3 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.4000000000000001 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.5000000000000002 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.6000000000000003 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.7000000000000004 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.8000000000000005 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 1.9000000000000006 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 2.0000000000000004 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 2.1000000000000005 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 2.2000000000000006 b = 2.4 root = -100.0
+W tym przedziale nie ma przeslanek do znajdowania pierwiastka.;[
+Dla a = 2.3000000000000007 b = 2.4 root = -100.0

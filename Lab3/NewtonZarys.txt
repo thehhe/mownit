@@ -1,0 +1,403 @@
+METODA NEWTONA
+
+PIERWSZE KRYTERIUM STOPU
+
+
+RO = 0.01
+
+Po 21 iteracjach znaleziono
+Dla a = -0.6 root = -0.1427303847119091
+Po 19 iteracjach znaleziono
+Dla a = -0.5 root = -0.13880461860334267
+Po 16 iteracjach znaleziono
+Dla a = -0.4 root = -0.1384249313724828
+Po 12 iteracjach znaleziono
+Dla a = -0.30000000000000004 root = -0.13835974381357305
+Po 6 iteracjach znaleziono
+Dla a = -0.20000000000000004 root = -0.14092452199789193
+Po 1 iteracjach znaleziono
+Dla a = -0.10000000000000003 root = -0.10000000000000003
+Po 0 iteracjach znaleziono
+Dla a = -2.7755575615628914E-17 root = 0.0
+Po 1 iteracjach znaleziono
+Dla a = 0.09999999999999998 root = 0.09999999999999998
+Po 6 iteracjach znaleziono
+Dla a = 0.19999999999999998 root = 0.14214727434660104
+Po 12 iteracjach znaleziono
+Dla a = 0.3 root = 0.1417510406205655
+Po 16 iteracjach znaleziono
+Dla a = 0.4 root = 0.14415332846559684
+Po 19 iteracjach znaleziono
+Dla a = 0.5 root = 0.1471904415044682
+Po 22 iteracjach znaleziono
+Dla a = 0.6 root = 0.1442866473752224
+Po 24 iteracjach znaleziono
+Dla a = 0.7 root = 0.1472384466074807
+Po 26 iteracjach znaleziono
+Dla a = 0.7999999999999999 root = 0.14717518691503098
+Po 28 iteracjach znaleziono
+Dla a = 0.8999999999999999 root = 0.14480200674452445
+Po 29 iteracjach znaleziono
+Dla a = 0.9999999999999999 root = 0.15065213578231168
+Po 31 iteracjach znaleziono
+Dla a = 1.0999999999999999 root = 0.1449046657064319
+Po 32 iteracjach znaleziono
+Dla a = 1.2 root = 0.14799277585682966
+Po 33 iteracjach znaleziono
+Dla a = 1.3 root = 0.1500843031997673
+Po 34 iteracjach znaleziono
+Dla a = 1.4000000000000001 root = 0.15129270933746486
+Po 36 iteracjach znaleziono
+Dla a = 1.5000000000000002 root = 0.14169463449143418
+Po 37 iteracjach znaleziono
+Dla a = 1.6000000000000003 root = 0.14145433307078856
+Po 37 iteracjach znaleziono
+Dla a = 1.7000000000000004 root = 0.15060657732912353
+Po 38 iteracjach znaleziono
+Dla a = 1.8000000000000005 root = 0.14922601011333647
+Po 39 iteracjach znaleziono
+Dla a = 1.9000000000000006 root = 0.14739260187520847
+Po 40 iteracjach znaleziono
+Dla a = 2.0000000000000004 root = 0.14516978617130138
+Po 41 iteracjach znaleziono
+Dla a = 2.1000000000000005 root = 0.1426148414119767
+Po 41 iteracjach znaleziono
+Dla a = 2.2000000000000006 root = 0.14967165624156428
+Po 42 iteracjach znaleziono
+Dla a = 2.3000000000000007 root = 0.14638666325466757
+
+------------------------------------------------------------
+
+
+RO = 1.0E-10
+
+Po 288 iteracjach znaleziono
+Dla a = -0.6 root = -1.411055181743519E-9
+Po 285 iteracjach znaleziono
+Dla a = -0.5 root = -1.4707447498503528E-9
+Po 282 iteracjach znaleziono
+Dla a = -0.4 root = -1.4667681222908953E-9
+Po 278 iteracjach znaleziono
+Dla a = -0.30000000000000004 root = -1.4660853573326379E-9
+Po 272 iteracjach znaleziono
+Dla a = -0.20000000000000004 root = -1.4929423521087075E-9
+Po 263 iteracjach znaleziono
+Dla a = -0.10000000000000003 root = -1.400749399419293E-9
+Po 0 iteracjach znaleziono
+Dla a = -2.7755575615628914E-17 root = 0.0
+Po 263 iteracjach znaleziono
+Dla a = 0.09999999999999998 root = 1.4209771062434475E-9
+Po 273 iteracjach znaleziono
+Dla a = 0.19999999999999998 root = 1.4344033514515812E-9
+Po 279 iteracjach znaleziono
+Dla a = 0.3 root = 1.430369680018064E-9
+Po 283 iteracjach znaleziono
+Dla a = 0.4 root = 1.454827888224446E-9
+Po 286 iteracjach znaleziono
+Dla a = 0.5 root = 1.485759119146695E-9
+Po 289 iteracjach znaleziono
+Dla a = 0.6 root = 1.4561854360222093E-9
+Po 291 iteracjach znaleziono
+Dla a = 0.7 root = 1.4862481102605563E-9
+Po 293 iteracjach znaleziono
+Dla a = 0.7999999999999999 root = 1.4856037329269105E-9
+Po 295 iteracjach znaleziono
+Dla a = 0.8999999999999999 root = 1.461433387947878E-9
+Po 297 iteracjach znaleziono
+Dla a = 0.9999999999999999 root = 1.4196258224317486E-9
+Po 298 iteracjach znaleziono
+Dla a = 1.0999999999999999 root = 1.4624788109711104E-9
+Po 299 iteracjach znaleziono
+Dla a = 1.2 root = 1.4939322381085627E-9
+Po 301 iteracjach znaleziono
+Dla a = 1.3 root = 1.4142253945476007E-9
+Po 302 iteracjach znaleziono
+Dla a = 1.4000000000000001 root = 1.4257184828185228E-9
+Po 303 iteracjach znaleziono
+Dla a = 1.5000000000000002 root = 1.42979547898636E-9
+Po 304 iteracjach znaleziono
+Dla a = 1.6000000000000003 root = 1.4273493095926672E-9
+Po 305 iteracjach znaleziono
+Dla a = 1.7000000000000004 root = 1.4191925212766205E-9
+Po 306 iteracjach znaleziono
+Dla a = 1.8000000000000005 root = 1.4060631816730771E-9
+Po 306 iteracjach znaleziono
+Dla a = 1.9000000000000006 root = 1.4878183898651011E-9
+Po 307 iteracjach znaleziono
+Dla a = 2.0000000000000004 root = 1.4651787109579235E-9
+Po 308 iteracjach znaleziono
+Dla a = 2.1000000000000005 root = 1.4391634370087816E-9
+Po 309 iteracjach znaleziono
+Dla a = 2.2000000000000006 root = 1.410301095748141E-9
+Po 309 iteracjach znaleziono
+Dla a = 2.3000000000000007 root = 1.477572049480205E-9
+
+----------------------------------------------------------
+
+RO = 1.0E-20
+
+Po 621 iteracjach znaleziono
+Dla a = -0.6 root = -1.3862047727697623E-19
+Po 619 iteracjach znaleziono
+Dla a = -0.5 root = -1.3485202588780215E-19
+Po 616 iteracjach znaleziono
+Dla a = -0.4 root = -1.344874104216631E-19
+Po 612 iteracjach znaleziono
+Dla a = -0.30000000000000004 root = -1.3442480796272115E-19
+Po 606 iteracjach znaleziono
+Dla a = -0.20000000000000004 root = -1.3688731558329564E-19
+Po 596 iteracjach znaleziono
+Dla a = -0.10000000000000003 root = -1.3760804878882267E-19
+Po 77 iteracjach znaleziono
+Dla a = -2.7755575615628914E-17 root = -1.3683022415385625E-19
+Po 596 iteracjach znaleziono
+Dla a = 0.09999999999999998 root = 1.395951960316552E-19
+Po 607 iteracjach znaleziono
+Dla a = 0.19999999999999998 root = 1.3151989693882595E-19
+Po 613 iteracjach znaleziono
+Dla a = 0.3 root = 1.3115005114145078E-19
+Po 617 iteracjach znaleziono
+Dla a = 0.4 root = 1.3339261493613927E-19
+Po 620 iteracjach znaleziono
+Dla a = 0.5 root = 1.3622868771818186E-19
+Po 623 iteracjach znaleziono
+Dla a = 0.6 root = 1.335170879766472E-19
+Po 625 iteracjach znaleziono
+Dla a = 0.7 root = 1.3627352312716317E-19
+Po 627 iteracjach znaleziono
+Dla a = 0.7999999999999999 root = 1.3621444041487415E-19
+Po 629 iteracjach znaleziono
+Dla a = 0.8999999999999999 root = 1.3399827068984884E-19
+Po 630 iteracjach znaleziono
+Dla a = 0.9999999999999999 root = 1.394624474266434E-19
+Po 632 iteracjach znaleziono
+Dla a = 1.0999999999999999 root = 1.3409412512866392E-19
+Po 633 iteracjach znaleziono
+Dla a = 1.2 root = 1.3697807788278567E-19
+Po 634 iteracjach znaleziono
+Dla a = 1.3 root = 1.3893191545261904E-19
+Po 636 iteracjach znaleziono
+Dla a = 1.4000000000000001 root = 1.3072358464179516E-19
+Po 637 iteracjach znaleziono
+Dla a = 1.5000000000000002 root = 1.3109740286755834E-19
+Po 638 iteracjach znaleziono
+Dla a = 1.6000000000000003 root = 1.3087311452755916E-19
+Po 638 iteracjach znaleziono
+Dla a = 1.7000000000000004 root = 1.3941988040749061E-19
+Po 639 iteracjach znaleziono
+Dla a = 1.8000000000000005 root = 1.3813006882090429E-19
+Po 640 iteracjach znaleziono
+Dla a = 1.9000000000000006 root = 1.3641750146600938E-19
+Po 641 iteracjach znaleziono
+Dla a = 2.0000000000000004 root = 1.3434167793010516E-19
+Po 642 iteracjach znaleziono
+Dla a = 2.1000000000000005 root = 1.319563473705222E-19
+Po 642 iteracjach znaleziono
+Dla a = 2.2000000000000006 root = 1.3854639674310221E-19
+Po 643 iteracjach znaleziono
+Dla a = 2.3000000000000007 root = 1.3547801841878606E-19
+
+
+
+
+---------------------------------------------------------
+=========================================================
+---------------------------------------------------------
+
+
+
+
+DRUGIE KRYTERIUM STOPU
+
+RO = 0.01
+
+Po 0 iteracjach znaleziono
+Dla a = -0.6 root = -0.6
+Po 0 iteracjach znaleziono
+Dla a = -0.5 root = -0.5
+Po 0 iteracjach znaleziono
+Dla a = -0.4 root = -0.4
+Po 0 iteracjach znaleziono
+Dla a = -0.30000000000000004 root = -0.30000000000000004
+Po 0 iteracjach znaleziono
+Dla a = -0.20000000000000004 root = -0.20000000000000004
+Po 0 iteracjach znaleziono
+Dla a = -0.10000000000000003 root = -0.10000000000000003
+Po 0 iteracjach znaleziono
+Dla a = -2.7755575615628914E-17 root = -2.7755575615628914E-17
+Po 0 iteracjach znaleziono
+Dla a = 0.09999999999999998 root = 0.09999999999999998
+Po 0 iteracjach znaleziono
+Dla a = 0.19999999999999998 root = 0.19999999999999998
+Po 0 iteracjach znaleziono
+Dla a = 0.3 root = 0.3
+Po 0 iteracjach znaleziono
+Dla a = 0.4 root = 0.4
+Po 0 iteracjach znaleziono
+Dla a = 0.5 root = 0.5
+Po 0 iteracjach znaleziono
+Dla a = 0.6 root = 0.6
+Po 0 iteracjach znaleziono
+Dla a = 0.7 root = 0.7
+Po 2 iteracjach znaleziono
+Dla a = 0.7999999999999999 root = 0.6997050532420155
+Po 4 iteracjach znaleziono
+Dla a = 0.8999999999999999 root = 0.6886376320443478
+Po 6 iteracjach znaleziono
+Dla a = 0.9999999999999999 root = 0.6694753000179464
+Po 7 iteracjach znaleziono
+Dla a = 1.0999999999999999 root = 0.6891164885849157
+Po 8 iteracjach znaleziono
+Dla a = 1.2 root = 0.7035167736849308
+Po 10 iteracjach znaleziono
+Dla a = 1.3 root = 0.6669982644574228
+Po 11 iteracjach znaleziono
+Dla a = 1.4000000000000001 root = 0.6722693556250724
+Po 12 iteracjach znaleziono
+Dla a = 1.5000000000000002 root = 0.6741387514899494
+Po 13 iteracjach znaleziono
+Dla a = 1.6000000000000003 root = 0.6730171547105834
+Po 14 iteracjach znaleziono
+Dla a = 1.7000000000000004 root = 0.6692765711115284
+Po 14 iteracjach znaleziono
+Dla a = 1.8000000000000005 root = 0.7092651997879593
+Po 15 iteracjach znaleziono
+Dla a = 1.9000000000000006 root = 0.7007187305652105
+Po 16 iteracjach znaleziono
+Dla a = 2.0000000000000004 root = 0.6903531098590225
+Po 17 iteracjach znaleziono
+Dla a = 2.1000000000000005 root = 0.6784332992925882
+Po 18 iteracjach znaleziono
+Dla a = 2.2000000000000006 root = 0.6651980347332556
+Po 18 iteracjach znaleziono
+Dla a = 2.3000000000000007 root = 0.6960282884619678
+
+--------------------------------------------------------
+
+RO = 1.0E-10
+
+Po 14 iteracjach znaleziono
+Dla a = -0.6 root = -0.21734220310519747
+Po 12 iteracjach znaleziono
+Dla a = -0.5 root = -0.21131667913333452
+Po 9 iteracjach znaleziono
+Dla a = -0.4 root = -0.2107340890850741
+Po 5 iteracjach znaleziono
+Dla a = -0.30000000000000004 root = -0.21063406879249372
+Po 0 iteracjach znaleziono
+Dla a = -0.20000000000000004 root = -0.20000000000000004
+Po 0 iteracjach znaleziono
+Dla a = -0.10000000000000003 root = -0.10000000000000003
+Po 0 iteracjach znaleziono
+Dla a = -2.7755575615628914E-17 root = -2.7755575615628914E-17
+Po 0 iteracjach znaleziono
+Dla a = 0.09999999999999998 root = 0.09999999999999998
+Po 0 iteracjach znaleziono
+Dla a = 0.19999999999999998 root = 0.19999999999999998
+Po 6 iteracjach znaleziono
+Dla a = 0.3 root = 0.1994441424111823
+Po 10 iteracjach znaleziono
+Dla a = 0.4 root = 0.2028140808599067
+Po 13 iteracjach znaleziono
+Dla a = 0.5 root = 0.2070741530821819
+Po 16 iteracjach znaleziono
+Dla a = 0.6 root = 0.20300109288847124
+Po 18 iteracjach znaleziono
+Dla a = 0.7 root = 0.2071414849007349
+Po 20 iteracjach znaleziono
+Dla a = 0.7999999999999999 root = 0.2070527570159621
+Po 22 iteracjach znaleziono
+Dla a = 0.8999999999999999 root = 0.2037240009787497
+Po 23 iteracjach znaleziono
+Dla a = 0.9999999999999999 root = 0.21192923217193063
+Po 25 iteracjach znaleziono
+Dla a = 1.0999999999999999 root = 0.20386800185438445
+Po 26 iteracjach znaleziono
+Dla a = 1.2 root = 0.20819949037075147
+Po 27 iteracjach znaleziono
+Dla a = 1.3 root = 0.21113287756996513
+Po 29 iteracjach znaleziono
+Dla a = 1.4000000000000001 root = 0.19880314576519437
+Po 30 iteracjach znaleziono
+Dla a = 1.5000000000000002 root = 0.19936501228981454
+Po 31 iteracjach znaleziono
+Dla a = 1.6000000000000003 root = 0.19902790035712506
+Po 31 iteracjach znaleziono
+Dla a = 1.7000000000000004 root = 0.21186533946245165
+Po 32 iteracjach znaleziono
+Dla a = 1.8000000000000005 root = 0.20992913857858736
+Po 33 iteracjach znaleziono
+Dla a = 1.9000000000000006 root = 0.20735770188329256
+Po 34 iteracjach znaleziono
+Dla a = 2.0000000000000004 root = 0.2042398869353627
+Po 35 iteracjach znaleziono
+Dla a = 2.1000000000000005 root = 0.20065591787644826
+Po 35 iteracjach znaleziono
+Dla a = 2.2000000000000006 root = 0.21055415280339682
+Po 36 iteracjach znaleziono
+Dla a = 2.3000000000000007 root = 0.2059467595439178
+
+--------------------------------------------------------
+
+RO = 1.0E-20
+
+Po 37 iteracjach znaleziono
+Dla a = -0.6 root = -0.04382695160009507
+Po 34 iteracjach znaleziono
+Dla a = -0.5 root = -0.045687257652948884
+Po 31 iteracjach znaleziono
+Dla a = -0.4 root = -0.04556330413185174
+Po 27 iteracjach znaleziono
+Dla a = -0.30000000000000004 root = -0.04554202223573974
+Po 21 iteracjach znaleziono
+Dla a = -0.20000000000000004 root = -0.04637921177664932
+Po 12 iteracjach znaleziono
+Dla a = -0.10000000000000003 root = -0.04350581177730366
+Po 0 iteracjach znaleziono
+Dla a = -2.7755575615628914E-17 root = -2.7755575615628914E-17
+Po 12 iteracjach znaleziono
+Dla a = 0.09999999999999998 root = 0.0438593703331603
+Po 22 iteracjach znaleziono
+Dla a = 0.19999999999999998 root = 0.044272530531940704
+Po 28 iteracjach znaleziono
+Dla a = 0.3 root = 0.04414840645034391
+Po 32 iteracjach znaleziono
+Dla a = 0.4 root = 0.04490100255566416
+Po 35 iteracjach znaleziono
+Dla a = 0.5 root = 0.04585267001135989
+Po 38 iteracjach znaleziono
+Dla a = 0.6 root = 0.04494277303533422
+Po 40 iteracjach znaleziono
+Dla a = 0.7 root = 0.0458677139319949
+Po 42 iteracjach znaleziono
+Dla a = 0.7999999999999999 root = 0.045847889513360156
+Po 44 iteracjach znaleziono
+Dla a = 0.8999999999999999 root = 0.045104245435241656
+Po 46 iteracjach znaleziono
+Dla a = 0.9999999999999999 root = 0.04381778658279764
+Po 47 iteracjach znaleziono
+Dla a = 1.0999999999999999 root = 0.045136411276188795
+Po 48 iteracjach znaleziono
+Dla a = 1.2 root = 0.046104113883728384
+Po 50 iteracjach znaleziono
+Dla a = 1.3 root = 0.04365159413863963
+Po 51 iteracjach znaleziono
+Dla a = 1.4000000000000001 root = 0.04400527732267128
+Po 52 iteracjach znaleziono
+Dla a = 1.5000000000000002 root = 0.04413073697700852
+Po 53 iteracjach znaleziono
+Dla a = 1.6000000000000003 root = 0.04405546230752182
+Po 54 iteracjach znaleziono
+Dla a = 1.7000000000000004 root = 0.04380445233505984
+Po 55 iteracjach znaleziono
+Dla a = 1.8000000000000005 root = 0.04340040368925889
+Po 55 iteracjach znaleziono
+Dla a = 1.9000000000000006 root = 0.045916023730471864
+Po 56 iteracjach znaleziono
+Dla a = 2.0000000000000004 root = 0.04521948184669374
+Po 57 iteracjach znaleziono
+Dla a = 2.1000000000000005 root = 0.0444190051753374
+Po 58 iteracjach znaleziono
+Dla a = 2.2000000000000006 root = 0.043530825688978717
+Po 58 iteracjach znaleziono
+Dla a = 2.3000000000000007 root = 0.045600788513740914
