@@ -1,5 +1,7 @@
-# mownit
-Laboratory codes of computational techinques 
+# MOWNiT - Computational techniques in science. 
+
+Engineering degree course in Computer Science at AGH University of Science and Technology.
+The laboratory classes were focusing on different numerical methods. Every two weeks the homework assignment was to implement a numerical method described below. I used vanilla Java to code the methods.
 
 - Lab2 - iterative methods of solving system of linear equations
 - Lab3 - solving non-linear equations and systems of non-linear equations
